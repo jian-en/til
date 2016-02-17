@@ -21,12 +21,17 @@ A collection of skills and techniques I learned on a daily basis. It is very con
 
 - [Using Order By To Order Resultset](sql/using-order-by-to-order-result-set.md)
 - [Aggregate Results From SQL](sql/aggregate-results-from-sql.md)
+- [Make Results Show in One line](sql/make-results-show-in-one-line.md)
+- `length` to calculate the length of a char
 
 
 ### DevOps
 
 - [Define Cronjob Execution Time](devops/define-cronjob-execution-time.md)
 - [How to Copy File Between Servers](devops/how-to-copy-file-between-servers.md)
+- [Check *nix System Version Information](devops/check-nix-system-version-information.md)
+- [Anaylize Nginx Log](devops/analyze-nginx-log.md)
+- ls -t to list file by time_created
 
 ### Python
 
